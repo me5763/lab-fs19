@@ -27,19 +27,21 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 <tr>
 <td markdown="span">Lab 1</td>
 <td markdown="span">Monday, Aug. 28</td>
-<td markdown="span">Some descriptive text. This is a markdown link to [Google](http://google.com). Or see [some link][mydoc_tags].</td>
+<td markdown="span">Some descriptive text. This is a markdown link to [Google](http://google.com). <br/> Or see [some link][mydoc_tags].</td>
+<td markdown="span">[slides](#)]</td>
 </tr>
 <tr>
-<td markdown="span">Second column **fields**</td>
-<td markdown="span">Some more descriptive text.
-</td>
+<td markdown="span">Lab 2</td>
+<td markdown="span">Monday, Aug. 28</td>
+<td markdown="span">Some descriptive text. This is a markdown link to [Google](http://google.com). <br/> Or see [some link][mydoc_tags].</td>
+<td markdown="span">[slides](#)]</td>
 </tr>
 </tbody>
 </table>
 
 
 
-### Fall 2018 Projects
+### Projects
 - Project #1:
 - Project #2:
 
