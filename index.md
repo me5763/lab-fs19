@@ -8,30 +8,25 @@ description: Minimal tutorial on making a simple website with GitHub Pages
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
 
 ### Schedule and Syllabus
-
-| Event | Date            | Description         | Course Material |
-| ----- | --------------- | ------------------- | --------------- |
-| Lab 1 | Monday, Aug. 28 | Introduction to CAD | [Slides](#)     |
-| Lab 2 |                 |                     |                 |
-| Lab 3 |                 |                     |                 |
-
-
-
-
 <table>
 <colgroup>
-<col width="30%" />
-<col width="70%" />
+<col width="10%" />
+<col width="10%" />
+<col width="60%" />
+<col width="15%" />
 </colgroup>
 <thead>
 <tr class="header">
-<th>Field</th>
+<th>Event</th>
+<th>Date</th>
 <th>Description</th>
+<th>Material</th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td markdown="span">First column **fields**</td>
+<td markdown="span">Lab 1</td>
+<td markdown="span">Monday, Aug. 28</td>
 <td markdown="span">Some descriptive text. This is a markdown link to [Google](http://google.com). Or see [some link][mydoc_tags].</td>
 </tr>
 <tr>
