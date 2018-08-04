@@ -77,8 +77,6 @@ tba
 ---
 
 
-### BOOKS
-<img src='images/NX12_for_engineering_design.png' width='300'>
-
----
+### Book
+<img src='assets/images/NX12_for_engineering_design.png' width='300'>
 
