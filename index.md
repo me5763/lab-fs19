@@ -4,14 +4,36 @@ title: ME5763 Lab
 tagline: Notes
 description: Minimal tutorial on making a simple website with GitHub Pages
 ---
+### Course Description
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
 
-## Fall 2018 Projects
+### Schedule and Syllabus
+
+|       | Date | Description | Course Material |
+| ----- | ---- | ----------- | --------------- |
+| Lab 1 |      |             | [Slides](#)     |
+| Lab 2 |      |             |                 |
+| Lab 3 |      |             |                 |
+
+
+
+### Fall 2018 Projects
 - Project #1:
 - Project #2:
 
-## NX
 
-## SOLIDWORKS
+### NX
+
+tba
+
+### SOLIDWORKS
+
+tba
+
+
+### BOOKS
+<img src='./images/NX12_for_engineering_design.png' width='300'>
+
 
 
 
