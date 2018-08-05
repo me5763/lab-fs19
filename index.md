@@ -108,11 +108,15 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 - [Testing your site locally](pages/local_test.html)
 - [Resources](pages/resources.html)
 
+---
+
 ### NX 12 Videos
 
 <figure class="video_container">
   <iframe src="https://www.youtube.com/embed/NoFLJLJ7abE" frameborder="0" allowfullscreen="true"> </iframe>
 </figure>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/v-XY5_FhXM0?rel=0&amp;controls=0&amp;showinfo=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 ---
 
