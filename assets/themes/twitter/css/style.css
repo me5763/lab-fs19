@@ -5,12 +5,6 @@
 
 .container-narrow > hr {
   margin: 30px 0; }
-  
-.navbar {
-  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.26);
-  min-height: 56px;
-  transition: min-height 0.3s;
-}
 
 .navbar .nav {
   float: right; }
