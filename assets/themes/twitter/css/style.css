@@ -12,6 +12,10 @@
   transition: min-height 0.3s;
 }
 
+.navbar-inner {
+    width: 100%
+}
+
 .navbar .nav {
   float: right; }
 
