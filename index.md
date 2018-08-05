@@ -34,12 +34,56 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 <td markdown="span">Some descriptive text. This is a markdown link to [Google](http://google.com). <br/> Or see [some link][mydoc_tags].</td>
 <td markdown="span">[slides](#)</td>
 </tr>
+
 <tr>
 <td markdown="span">Lab 2</td>
-<td markdown="span">Monday, Aug. 28</td>
-<td markdown="span">Some descriptive text. This is a markdown link to [Google](http://google.com). <br/> Or see [some link][mydoc_tags].</td>
-<td markdown="span">[slides](#)</td>
+<td markdown="span">tba</td>
+<td markdown="span">tba</td>
+<td markdown="span">tba</td>
 </tr>
+
+<tr>
+<td markdown="span">Lab 2</td>
+<td markdown="span">tba</td>
+<td markdown="span">tba</td>
+<td markdown="span">tba</td>
+</tr>
+
+<tr>
+<td markdown="span">Lab 2</td>
+<td markdown="span">tba</td>
+<td markdown="span">tba</td>
+<td markdown="span">tba</td>
+</tr>
+
+<tr>
+<td markdown="span">Lab 2</td>
+<td markdown="span">tba</td>
+<td markdown="span">tba</td>
+<td markdown="span">tba</td>
+</tr>
+
+<tr>
+<td markdown="span">Lab 2</td>
+<td markdown="span">tba</td>
+<td markdown="span">tba</td>
+<td markdown="span">tba</td>
+</tr>
+
+<tr>
+<td markdown="span">Lab 2</td>
+<td markdown="span">tba</td>
+<td markdown="span">tba</td>
+<td markdown="span">tba</td>
+</tr>
+
+<tr>
+<td markdown="span">Lab 2</td>
+<td markdown="span">tba</td>
+<td markdown="span">tba</td>
+<td markdown="span">tba</td>
+</tr>
+
 </tbody>
 </table>
 
