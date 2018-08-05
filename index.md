@@ -92,25 +92,27 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 ### Projects
 - Project #1:
 - Project #2:
-
-
-
+- Project #3:
+- Project #4:
+- Project #5:
 
 ---
-
-
 
 ### NX 12 Tutorial
 
 - [Overview](pages/overview.html)
-- [Making an independent website](pages/independent_site.html)
-- [Making a personal site](pages/user_site.html)
-- [Making a site for a project](pages/project_site.html)
-- [Making a jekyll-free site](pages/nojekyll.html)
+- [Basic](pages/independent_site.html)
+- [3D Modeling](pages/user_site.html)
+- [Assembly](pages/nojekyll.html)
+- [Surface Modeling](pages/project_site.html)
 - [Testing your site locally](pages/local_test.html)
 - [Resources](pages/resources.html)
 
+### NX 12 Videos
 
+<figure class="video_container">
+  <iframe src="https://www.youtube.com/embed/NoFLJLJ7abE" frameborder="0" allowfullscreen="true"> </iframe>
+</figure>
 
 ---
 
