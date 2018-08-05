@@ -17,9 +17,18 @@ table{
 }
 
 th{
+    background-color: black;
+    color: white;
     border:1px solid #000000;
 }
 
 td{
     border:1px solid #000000;
+}
+
+tr:nth-child(even) {
+    background-color: #eee;
+}
+tr:nth-child(odd) {
+   background-color: #fff;
 }
