@@ -89,7 +89,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 ---
 
-### <a id="projects">Project Assignments</a>
+### <a class="anchor" id="projects">Project Assignments</a>
 
 Before you start...
 
@@ -101,7 +101,7 @@ Before you start...
 
 ---
 
-### NX 12 Tutorial
+### <a class="anchor" id="tutorial">NX 12 Tutorial</a>
 
 - [Overview](pages/overview.html)
 - [Basic](pages/independent_site.html)
