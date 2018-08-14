@@ -89,8 +89,8 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 ---
 
-### Projects
-- Project #1:
+### <a id="projects">Projects</a>
+- Project #1: [intro](pages/project-1.html)
 - Project #2:
 - Project #3:
 - Project #4:
