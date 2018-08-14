@@ -89,12 +89,15 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 ---
 
-### <a id="projects">Projects</a>
-- Project #1: [intro](pages/project-1.html)
-- Project #2:
-- Project #3:
-- Project #4:
-- Project #5:
+### <a id="projects">Project Assignments</a>
+
+Before you start...
+
+- [Project #1](pages/project-1.html)
+- [Project #2](pages/project-1.html)
+- [Project #3](pages/project-1.html)
+- [Project #4](pages/project-1.html)
+- [Project #5](pages/project-1.html)
 
 ---
 
