@@ -162,6 +162,7 @@ Final Exam 		25%
 ### <a class="anchor" id="tutorial">NX 12 Tutorial</a>
 
 - [NX Modeling](pages/nx-tutorial/nx-modeling.html)
+- [NX Drafting](pages/nx-tutorial/nx-drafting.html)
 
 
 ---
