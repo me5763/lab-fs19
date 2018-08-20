@@ -38,11 +38,11 @@ The following part is built mainly by Revolve. Have a try.
 
 #### > Sweep
 
-<img src="../../assets/images/sweep.PNG" width="700">
+<img src="../../assets/images/sweep.PNG" width="500">
 
 #### > Boolean Operation
 
-<img src="../../assets/images/boolean.PNG" width="700">
+<img src="../../assets/images/boolean.PNG" width="500">
 
 #### > Pattern Feature
 

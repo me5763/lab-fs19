@@ -166,16 +166,6 @@ Final Exam 		25%
 
 ---
 
-### NX 12 Videos
-tba
-<figure class="video_container">
-  <iframe width="560" height="315" src="https://www.youtube.com/embed/v-XY5_FhXM0?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
-</figure>
-
-
-
----
-
 ### SOLIDWORKS
 
 tba
