@@ -28,7 +28,7 @@ This course covers the fundamentals (both theory and practice) of computer-aided
 <th>Week</th>
 <th>Lab</th>
 <th>Self Exercise</th>
-<th>Due</th>
+<th>Due Dates</th>
 </tr>
 </thead>
 <tbody>
@@ -132,7 +132,7 @@ This course covers the fundamentals (both theory and practice) of computer-aided
 
 ### <a class="anchor" id="projects">Project Assignments</a>
 
-Before you start...
+tba
 
 - [Project #1](pages/project-1.html) --------------------------- **Due: Sep. 14**
 - [Project #2](pages/project-2.html) --------------------------- **Due: Sep. 21**
