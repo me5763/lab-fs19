@@ -9,7 +9,7 @@ description: NX Drafting
 After you have your part done, let's move on to the **Drafting** part of this project.
 
 1. File.
-2. Launch **Drafting**. <img src="../../assets/images/start_drafting.PNG" width="800">
+2. Launch **Drafting**.<img src="../../assets/images/start_drafting.png" width="800">
 3. Let's set the Sheet size. <br><img src="../../assets/images/sheet_setting.PNG" width="300">
 4. Pick the views you need.
 5. Click **Finish**.<img src="../../assets/images/draft_layout.PNG" width="700">
