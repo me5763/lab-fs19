@@ -178,6 +178,7 @@ tba
 [NX 10 for Engineering Design](https://web.mst.edu/~mleu/nx_manuals/nx10.pdf)
 
 #### > NX 12
-tba
+[NX 12 for Engineering Design](assets/books/NX-12-for-Engineering-Design.pdf)
+<br>
 <img src='assets/images/NX12_for_engineering_design.png' width='300'>
 
