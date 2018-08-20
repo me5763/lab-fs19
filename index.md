@@ -142,7 +142,7 @@ tba
 - [Project #5](pages/project-5.html) --------------------------- **Due: Nov. 2**
 - [Final Project Report](#) -------------- **Due: Nov. 30**
 
-***Note: Please submit your projects via [Canvas](https://mst.instructure.com/courses/32546).***
+***Note: Please submit your projects via [Canvas](https://mst.instructure.com/courses/32546/assignments).***
 
 ---
 ### Grading
