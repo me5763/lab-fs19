@@ -161,11 +161,8 @@ Final Exam 		25%
 
 ### <a class="anchor" id="tutorial">NX 12 Tutorial</a>
 
-- [Overview](#)
-- [Basic](#)
-- [3D Modeling](#)
-- [Assembly](#)
-- [Surface Modeling](#)
+- [NX Modeling](pages/nx-tutorial/nx-modeling.html)
+
 
 ---
 
@@ -186,6 +183,11 @@ tba
 ---
 
 
-### Book
+### Books
+#### > NX 10
+[NX 10 for Engineering Design](https://web.mst.edu/~mleu/nx_manuals/nx10.pdf)
+
+#### > NX 12
+tba
 <img src='assets/images/NX12_for_engineering_design.png' width='300'>
 
