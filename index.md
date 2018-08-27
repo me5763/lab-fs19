@@ -50,7 +50,7 @@ This course covers the fundamentals (both theory and practice) of computer-aided
 <td markdown="span">Sep. 10</td>
 <td markdown="span">NX: Sketching and Drafting</td>
 <td markdown="span">Practice for Project 1</td>
-<td markdown="span">PROJ#1: Sep. 14</td>
+<td markdown="span">[PROJ#1](pages/project-1.html): Sep. 14</td>
 </tr>
 
 <tr>
