@@ -51,7 +51,7 @@ w.tao@mst.edu
 
 <tr>
 <td markdown="span">Aug. 27</td>
-<td markdown="span">NX: Introduction, Form Features and Feature Operations</td>
+<td markdown="span">NX: Introduction, Form Features and Feature Operations [[Slides]](https://docs.google.com/presentation/d/17NCyl8fK71Y52TaUrHyMorTYWVzYbqFQnhF36DhpPvE/edit?usp=sharing)</td>
 <td markdown="span">Extrude, Revolve, Sweep, Blend, Boolean Operations, etc.</td>
 <td markdown="span"> </td>
 </tr>
