@@ -26,11 +26,11 @@ The models in `.IGS` version are provided for your reference. You can use either
 
 Or, if you want to measure the parts physically with a caliper, they are waiting in 311 ERL.
 
-If you have issues on importing the `.IGS` files. The models created in Solidworks 2017 are also provided:
-- [base_top](../assets/models/project-1/base_top.SLDPRT)
-- [base_bottom](../assets/models/project-1/base_bottom.SLDPRT)
-- [arm](../assets/models/project-1/arm.SLDPRT)
-- [leg](../assets/models/project-1/leg.SLDPRT)
+If you have issues on importing the `.IGS` files into NX or Solidworks. The models created in Solidworks 2017 are also provided:
+- [base_top.SLDPRT](../assets/models/project-1/base_top.SLDPRT)
+- [base_bottom.SLDPRT](../assets/models/project-1/base_bottom.SLDPRT)
+- [arm.SLDPRT](../assets/models/project-1/arm.SLDPRT)
+- [leg.SLDPRT](../assets/models/project-1/leg.SLDPRT)
 
 ## Notes
 - The unit of the provided model is ***mm***.
