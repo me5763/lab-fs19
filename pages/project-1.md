@@ -26,13 +26,16 @@ The models in `.IGS` version are provided for your reference. You can use either
 
 Or, if you want to measure the parts physically with a caliper, they are waiting in 311 ERL.
 
-If you have issues on importing the `.IGS` files into NX or Solidworks. The models created in Solidworks 2017 are also provided:
+If you have issues on importing the `.IGS` files into NX or Solidworks. The models created in Solidworks 2017 are also provided. The Solidworks files contain my modeling history, feel free to use it as reference, but remember to be creative, there's got to be a better'ways to achieve the same geometry in CAD.
 - [base_top.SLDPRT](../assets/models/project-1/base_top.SLDPRT)
 - [base_bottom.SLDPRT](../assets/models/project-1/base_bottom.SLDPRT)
 - [arm.SLDPRT](../assets/models/project-1/arm.SLDPRT)
 - [leg.SLDPRT](../assets/models/project-1/leg.SLDPRT)
 
+***Let me know if you have any issues on loading the provided models. They may happen because of the version confict.***
+
 ## Notes
+- This is an ***NX*** project, so model the parts in ***NX***.
 - The unit of the provided model is ***mm***.
 - It is not required to have exactly the same dimensions with the provided models. But make sure that your model have the similar features.
 - There're some crutial dimensions related to **mate** which you need to keep them consistent for different parts. Make sure that the four parts can be assembled as shown above without interference.
