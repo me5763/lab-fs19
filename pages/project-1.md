@@ -32,7 +32,7 @@ If you have issues on importing the `.IGS` files into NX or Solidworks. The mode
 - [arm.SLDPRT](../assets/models/project-1/arm.SLDPRT)
 - [leg.SLDPRT](../assets/models/project-1/leg.SLDPRT)
 
-***Let me know if you have any issues on loading the provided models. They may happen because of the version confict.***
+***Let me know if you have any issues on loading the provided models. Issues may happen because of the version confict.***
 
 ## Notes
 - This is an ***NX*** project, so model the parts in ***NX***.
