@@ -16,6 +16,8 @@ These four parts will construct the body frame of a drone. Let's take a look:
 <div class="sketchfab-embed-wrapper"><iframe width="640" height="480" src="https://sketchfab.com/models/b0d3f97d518b4cfc89c9ff8857c29865/embed?autospin=0.2&amp;autostart=1" frameborder="0" allow="autoplay; fullscreen; vr" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 </div>
 
+Very cool, right? I hope after this course, you'll have some fancy CAD designs in your portofolio, which will be attractive when you look for a job.
+
 The models in `.IGS` version are provided for your reference. You can use either NX or Solidworks to open the `.IGS` file and measure the necessary dimensions.
 - [base_top.IGS](../assets/models/project-1/base_top.IGS)
 - [base_bottom.IGS](../assets/models/project-1/base_bottom.IGS)
