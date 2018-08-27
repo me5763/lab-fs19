@@ -9,6 +9,16 @@ This course covers the fundamentals (both theory and practice) of computer-aided
 
 **In the lab session, the commercial CAD/CAM packages including NX12 and SolidWorks will be used to provide students with hands-on CAD/CAM experiences through exercises on features creation, sketching, drafting, solid modeling, freeform modeling, assembly modeling, and finite element analysis.**
 
+<br>
+
+**Lab Instructor**
+
+Wenjin Tao
+
+w.tao@mst.edu
+
+311 [Engineering Research Lab](https://goo.gl/maps/4ASLFqY3Zx62), Missouri University of S&T
+
 ---
 
 
