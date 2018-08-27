@@ -31,7 +31,7 @@ Or, if you want to measure the parts physically with a caliper, they are waiting
 - It is not required to have exactly the same dimensions with the provided models. But make sure that your model have the similar features.
 - There're some crutial dimensions related to **mate** which you need to keep them consistent for different parts. Make sure that the four parts can be assembled as shown above without interference.
 
-## What to submis?
+## What to submit?
 - Four part files (.prt) in a .zip file.
 
 ## How to submit?
