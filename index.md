@@ -142,8 +142,6 @@ w.tao@mst.edu
 
 ### <a class="anchor" id="projects">Project Assignments</a>
 
-tba
-
 - [Project #1](pages/project-1.html) --------------------------- **Due: Sep. 14**
 - [Project #2](pages/project-2.html) --------------------------- **Due: Sep. 21**
 - [Final Project Proposal](#) ----------- **Due: Sep. 28**
@@ -173,6 +171,7 @@ Final Exam 		25%
 
 - [NX Modeling](pages/nx-tutorial/nx-modeling.html)
 - [NX Drafting](pages/nx-tutorial/nx-drafting.html)
+- [How to Speed up Your NX](pages/speed-up-nx.html)
 
 
 ---
