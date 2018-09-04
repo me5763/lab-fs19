@@ -26,7 +26,13 @@ The models in `.IGS` version are provided for your reference. You can use either
 
 Or, if you want to measure the parts physically with a caliper, they are waiting in 311 ERL.
 
-If you have issues on importing the `.IGS` files into NX or Solidworks. The models created in Solidworks 2017 are also provided. The Solidworks files contain my modeling history, feel free to use it as reference, but remember to be creative, there's got to be a better way to achieve the same geometry in CAD.
+If you have **issues on importing** the `.IGS` files into NX or Solidworks. I've done the importing for you and saved the `.prt` files which you can directly open in NX 10 or NX 12.
+
+- [nx10_igs_prt.zip](../assets/models/project-1/nx10_igs_prt.zip)
+- [nx12_igs_prt.zip](../assets/models/project-1/nx12_igs_prt.zip)
+
+The models created in Solidworks 2017 are also provided. The Solidworks files contain my modeling history, feel free to use it as reference, but remember to be creative, there's got to be a better way to achieve the same geometry in CAD.
+
 - [base_top.SLDPRT](../assets/models/project-1/base_top.SLDPRT)
 - [base_bottom.SLDPRT](../assets/models/project-1/base_bottom.SLDPRT)
 - [arm.SLDPRT](../assets/models/project-1/arm.SLDPRT)
