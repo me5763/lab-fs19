@@ -143,7 +143,7 @@ w.tao@mst.edu
 ### <a class="anchor" id="projects">Project Assignments</a>
 
 - [Project 1 Task 1](pages/project-1.html#task-1) --------------------------- **Due: Sep. 14**
-- [Project 1 Task 2](pages/project-2.html#task-2) --------------------------- **Due: Sep. 21**
+- [Project 1 Task 2](pages/project-1.html#task-2) --------------------------- **Due: Sep. 21**
 - [Final Project Proposal](#) ----------- **Due: Sep. 28**
 - [Project 2](pages/project-2.html) --------------------------- **Due: Oct. 5**
 - [Project 3](pages/project-3.html) --------------------------- **Due: Oct. 19**
