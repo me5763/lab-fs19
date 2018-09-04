@@ -60,14 +60,14 @@ w.tao@mst.edu
 <td markdown="span">Sep. 10</td>
 <td markdown="span">NX: Sketching and Drafting</td>
 <td markdown="span">Practice for Project 1</td>
-<td markdown="span">[PROJ#1](pages/project-1.html): Sep. 14</td>
+<td markdown="span">[P1 Task1](pages/project-1.html): Sep. 14</td>
 </tr>
 
 <tr>
 <td markdown="span">Sep. 17</td>
 <td markdown="span">NX: Assembly Modeling</td>
 <td markdown="span">Practice for Project 2</td>
-<td markdown="span">PROJ#2: Sep. 21</td>
+<td markdown="span">[P1 Task2](pages/project-1.html): Sep. 21</td>
 </tr>
 
 <tr>
@@ -81,7 +81,7 @@ w.tao@mst.edu
 <td markdown="span">Oct. 1</td>
 <td markdown="span">NX: Motion Simulation</td>
 <td markdown="span">Motion Simulation and Practice for Project 3</td>
-<td markdown="span">PROJ#3: Oct. 5</td>
+<td markdown="span">P2: Oct. 5</td>
 </tr>
 
 <tr>
@@ -95,7 +95,7 @@ w.tao@mst.edu
 <td markdown="span">Oct. 15</td>
 <td markdown="span">SolidWorks</td>
 <td markdown="span">Feature Operations, Sketching, Drafting and Practice for Project 4</td>
-<td markdown="span">PROJ#4: Oct. 19</td>
+<td markdown="span">P3: Oct. 19</td>
 </tr>
 
 <tr>
@@ -109,7 +109,7 @@ w.tao@mst.edu
 <td markdown="span">Oct. 29</td>
 <td markdown="span">SolidWorks</td>
 <td markdown="span">Freeform Modeling and Practice for Project 5</td>
-<td markdown="span">PROJ#5: Nov. 2</td>
+<td markdown="span">P4: Nov. 2</td>
 </tr>
 
 <tr>
@@ -142,12 +142,12 @@ w.tao@mst.edu
 
 ### <a class="anchor" id="projects">Project Assignments</a>
 
-- [Project #1](pages/project-1.html) --------------------------- **Due: Sep. 14**
-- [Project #2](pages/project-2.html) --------------------------- **Due: Sep. 21**
+- [Project 1 Task 1](pages/project-1.html#task-1) --------------------------- **Due: Sep. 14**
+- [Project 1 Task 2](pages/project-2.html#task-2) --------------------------- **Due: Sep. 21**
 - [Final Project Proposal](#) ----------- **Due: Sep. 28**
-- [Project #3](pages/project-3.html) --------------------------- **Due: Oct. 5**
-- [Project #4](pages/project-4.html) --------------------------- **Due: Oct. 19**
-- [Project #5](pages/project-5.html) --------------------------- **Due: Nov. 2**
+- [Project 2](pages/project-2.html) --------------------------- **Due: Oct. 5**
+- [Project 3](pages/project-3.html) --------------------------- **Due: Oct. 19**
+- [Project 4](pages/project-4.html) --------------------------- **Due: Nov. 2**
 - [Final Project Report](#) -------------- **Due: Nov. 30**
 
 ***Note: Please submit your projects via [Canvas](https://mst.instructure.com/courses/32546/assignments).***

@@ -1,13 +1,13 @@
 ---
 layout: page-discussion
-title: Project 1 
-tagline: Model Parts of a Drone Using NX
+title: Project 1
+tagline: Model Parts and Assembly of a Drone Using NX
 description: Model Parts of a Drone Using NX
 ---
 
 ## Objective
 
-In this project, you will be modeling four parts of a drone using NX. These four parts are show below:
+In this project, you will be modeling four parts of a drone using NX, and then assemble them together. These four parts are show below:
 
 <img src="../assets/images/project-1/parts.png" width="700">
 
@@ -47,7 +47,17 @@ The models created in Solidworks 2017 are also provided. The Solidworks files co
 - There're some crutial dimensions related to **mate** which you need to keep them consistent for different parts. Make sure that the four parts can be assembled as shown above without interference.
 
 ## What to submit?
-- Four part files (.prt) in a .zip file.
+This project consists of two tasks:
+
+### <a class="anchor" id="task-1">Task 1</a>:  
+
+- Choose any 2 out of the above 4 parts to model and submit the finished 2 part files (`.prt`) in a `.zip` file. **Due: Sep. 14**
+
+
+
+### <a class="anchor" id="task-2">Task 2</a>:  
+
+- Model the the other 2 parts and assemble the drone, then submit the whole 4 part files (`.prt`) and the assembly file (`.prt`) in a .zip file. **Due: Sep. 21**
 
 ## How to submit?
 - Submit your project to the corresponding module on Canvas (use your last name to name the file (e.g. Lastname_Project1_Part1). Do not use generic names like project1).
