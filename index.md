@@ -19,6 +19,8 @@ w.tao@mst.edu
 
 311 [Engineering Research Lab](https://goo.gl/maps/4ASLFqY3Zx62), Missouri University of S&T
 
+Office Hours: M & W 3:00PM-4:00PM
+
 ---
 
 
