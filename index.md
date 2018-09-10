@@ -58,7 +58,7 @@ w.tao@mst.edu
 
 <tr>
 <td markdown="span">Sep. 10</td>
-<td markdown="span">NX: Sketching and Drafting</td>
+<td markdown="span">NX: Tips for Sketching and Modeling [[Slides]](https://docs.google.com/presentation/d/10Z4NiW1LA7B2b7xos6fdZAuiIAQcPCOns2jknvkuEcQ/edit?usp=sharing)</td>
 <td markdown="span">Practice for Project 1</td>
 <td markdown="span">[P1 Task1](pages/project-1.html): Sep. 14</td>
 </tr>
