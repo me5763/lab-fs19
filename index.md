@@ -59,14 +59,14 @@ w.tao@mst.edu
 <tr>
 <td markdown="span">Sep. 10</td>
 <td markdown="span">NX: Tips for Sketching and Modeling [[Slides]](https://docs.google.com/presentation/d/10Z4NiW1LA7B2b7xos6fdZAuiIAQcPCOns2jknvkuEcQ/edit?usp=sharing)</td>
-<td markdown="span">Practice for Project 1</td>
+<td markdown="span">Practice for Project 1 Task 1</td>
 <td markdown="span">[P1 Task1](pages/project-1.html): Sep. 14</td>
 </tr>
 
 <tr>
 <td markdown="span">Sep. 17</td>
-<td markdown="span">NX: Assembly Modeling</td>
-<td markdown="span">Practice for Project 2</td>
+<td markdown="span">NX: Drafting and Assembly Modeling</td>
+<td markdown="span">Practice for Project 1 Task 2</td>
 <td markdown="span">[P1 Task2](pages/project-1.html): Sep. 21</td>
 </tr>
 
@@ -80,7 +80,7 @@ w.tao@mst.edu
 <tr>
 <td markdown="span">Oct. 1</td>
 <td markdown="span">NX: Motion Simulation</td>
-<td markdown="span">Motion Simulation and Practice for Project 3</td>
+<td markdown="span">Motion Simulation and Practice for Project 2</td>
 <td markdown="span">P2: Oct. 5</td>
 </tr>
 
@@ -94,7 +94,7 @@ w.tao@mst.edu
 <tr>
 <td markdown="span">Oct. 15</td>
 <td markdown="span">SolidWorks</td>
-<td markdown="span">Feature Operations, Sketching, Drafting and Practice for Project 4</td>
+<td markdown="span">Feature Operations, Sketching, Drafting and Practice for Project 3</td>
 <td markdown="span">P3: Oct. 19</td>
 </tr>
 
@@ -108,7 +108,7 @@ w.tao@mst.edu
 <tr>
 <td markdown="span">Oct. 29</td>
 <td markdown="span">SolidWorks</td>
-<td markdown="span">Freeform Modeling and Practice for Project 5</td>
+<td markdown="span">Freeform Modeling and Practice for Project 4</td>
 <td markdown="span">P4: Nov. 2</td>
 </tr>
 
