@@ -1,11 +1,14 @@
 ---
 layout: page
 title: Computer Aided Design Theory and Practice <br>Lab Session
-tagline: 
+tagline: Learn NX 12, SolidWorks 2018 and more
 description: ME 5763 COMPUTER AIDED DESIGN THEORY AND PRACTICE
 ---
 ### Course Description
+
 This course (**ME 5763: Computer Aided Design Theory and Practice**) covers the fundamentals (both theory and practice) of computer-aided design with emphasis on geometric modeling and the underlying mathematical representations of curves, surfaces and solids as well as graphic representations. The lecture topics include introduction to digital design and manufacturing, representation of curves, representation of surfaces, representation of solids, CAD/CAM data exchange, and computer graphics. 
+
+<center><img src='assets/images/wordcloud.png' width='60%'></center>
 
 **In the lab session, the commercial CAD/CAM packages including NX12 and SolidWorks will be used to provide students with hands-on CAD/CAM experiences through exercises on features creation, sketching, drafting, solid modeling, freeform modeling, assembly modeling, and finite element analysis.**
 
