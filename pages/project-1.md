@@ -1,8 +1,8 @@
 ---
 layout: page-discussion
-title: Project 1
-tagline: Model Parts and Assembly of a Drone Using NX
-description: Model Parts of a Drone Using NX
+title: Model Parts and Assembly of a Drone Using NX 12
+tagline: Project 1
+description: Model Parts of a Drone Using NX 12
 ---
 
 ## Objective
@@ -38,7 +38,15 @@ The models created in Solidworks 2017 are also provided. The Solidworks files co
 - [arm.SLDPRT](../assets/models/project-1/arm.SLDPRT)
 - [leg.SLDPRT](../assets/models/project-1/leg.SLDPRT)
 
-***Let me know if you have any issues on loading the provided models. Issues may happen because of the version confict.***
+The motor and propeller models (NX 12 `.prt` files) are provided which you can use for assembly modeling in Task 2. *Note that the motor and the propeller are modeled only for assembly purpose, which are highly simplified, they are not functionally modeled.* 
+
+<img src="../assets/images/project-1/motor-asm.png" width="700">
+
+- [motor.prt](../assets/models/project-1/motor.prt)
+- [propeller.prt](../assets/models/project-1/propeller.prt)
+- [motor-propeller.prt](../assets/models/project-1/motor-propeller.prt)
+
+***Let me know if you have any issues on loading the provided models. Issues may happen because of the version conflict.***
 
 ## Notes
 - This is an ***NX*** project, so model the parts in ***NX***.
