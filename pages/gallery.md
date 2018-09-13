@@ -1,9 +1,7 @@
 ---
 layout: page
 title: Gallery
-description: Modeling
+description: Gallery
 ---
 
-tba
-
-### 
+Share your awesome design here.
