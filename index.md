@@ -150,9 +150,9 @@ Office Hours: M & W 3:00PM-4:00PM
 - [Project 1 Task 1](pages/project-1.html#task-1) --------------------------- **Due: Sep. 14**
 - [Project 1 Task 2](pages/project-1.html#task-2) --------------------------- **Due: Sep. 21**
 - [Final Project Proposal](#) ------------------ **Due: Sep. 28**
-- [Project 2](pages/project-2.html) ------------------------------------- **Due: Oct. 5**
-- [Project 3](pages/project-3.html) ------------------------------------- **Due: Oct. 19**
-- [Project 4](pages/project-4.html) ------------------------------------- **Due: Nov. 2**
+- [Project 2](pages/project-2.html) ------------------------------------ **Due: Oct. 5**
+- [Project 3](pages/project-3.html) ------------------------------------ **Due: Oct. 19**
+- [Project 4](pages/project-4.html) ------------------------------------ **Due: Nov. 2**
 - [Final Project Report](#) --------------------- **Due: Nov. 30**
 
 ***Note: Please submit your projects via [Canvas](https://mst.instructure.com/courses/32546/assignments).***
