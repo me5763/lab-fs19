@@ -70,7 +70,7 @@ Office Hours: M & W 3:00PM-4:00PM
 
 <tr>
 <td markdown="span">Sep. 17</td>
-<td markdown="span">NX: Drafting and Assembly Modeling</td>
+<td markdown="span">NX: Assembly Modeling [[Slides]](https://docs.google.com/presentation/d/1D38vFhTjQQEQnFj1nNiTOsTSmQKl_2VD8EfmPHjJ-HQ/edit?usp=sharing)</td>
 <td markdown="span">Practice for Project 1 Task 2</td>
 <td markdown="span">[P1 Task2](pages/project-1.html): Sep. 21</td>
 </tr>
