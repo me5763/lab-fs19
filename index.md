@@ -77,7 +77,7 @@ Office Hours: M & W 3:00PM-4:00PM
 
 <tr>
 <td markdown="span">Sep. 24</td>
-<td markdown="span">NX: Freeform Modeling</td>
+<td markdown="span">NX: Surface Modeling</td>
 <td markdown="span">Modeling of Conics, Splines and Surfaces</td>
 <td markdown="span">FINAL PROJ. PROPOSAL: Sep. 28</td>
 </tr>
