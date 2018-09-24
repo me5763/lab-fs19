@@ -14,7 +14,7 @@ Modeling **(1) a motor** and **(2) a propeller** (optional: **(3) acorn nut** if
 
 In [Project 1](project-1.html), the **motor** and **propeller** models (NX 12 `.prt` files) are provided which you can use as reference. *Note that the motor and the propeller are modeled only for assembly purpose, which are highly simplified, they are not functionally modeled.* 
 
-**Feel free to use [GrabCAD](https://grabcad.com/) to find more fancy designs as your reference.**
+**Feel free to use [GrabCAD](https://grabcad.com/library) to find more fancy designs as your reference.**
 
 <img src="../assets/images/project-1/motor-asm.png" width="700">
 
