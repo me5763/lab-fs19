@@ -8,19 +8,21 @@ description: Model Parts and Assembly of a Drone Using SolidWorks
 
 ## Objective
 
+<img src="../assets/images/project-4/drone-asm.jpg" width="700">
+
 The motor and propeller models (NX 12 `.prt` files) are provided which you can use for assembly modeling in Task 2. *Note that the motor and the propeller are modeled only for assembly purpose, which are highly simplified, they are not functionally modeled.* 
 
-<img src="C:/D/WEB/me5763/lab/assets/images/project-1/motor-asm.png" width="700">
+<img src="../assets/images/project-1/motor-asm.png" width="700">
 
 - [motor.prt](../assets/models/project-1/motor.prt)
 - [propeller.prt](../assets/models/project-1/propeller.prt)
 - [motor-propeller.prt](../assets/models/project-1/motor-propeller.prt)
 
-<img src="C:/D/WEB/me5763/lab/assets/images/project-4/drone-asm.jpg" width="700">
+
 
 In this project, you will be modeling four parts of a drone using NX, and then assemble them together. These four parts are show below:
 
-<img src="C:/D/WEB/me5763/lab/assets/images/project-1/parts.png" width="700">
+<img src="../assets/images/project-1/parts.png" width="700">
 
 These four parts will construct the body frame of a drone. Let's take a look:
 
@@ -49,7 +51,7 @@ The models created in Solidworks 2017 are also provided. The Solidworks files co
 
 This project consists of two tasks: 
 
-- Model the the necessary parts and assemble the drone, then submit the whole 4 part files (`.prt`) and the assembly file (`.prt`) in a .zip file. **Due: Sep. 21**
+- Model the the necessary parts and assemble the drone, then submit the whole 4 part files (`.prt`) and the assembly file (`.prt`) in a .zip file. **Due: Nov. 2**
 
 ## How to submit?
 
