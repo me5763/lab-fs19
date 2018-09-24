@@ -86,7 +86,7 @@ Office Hours: M & W 3:00PM-4:00PM
 <td markdown="span">Oct. 1</td>
 <td markdown="span">NX: Motion Simulation</td>
 <td markdown="span">Motion Simulation and Practice for Project 2</td>
-<td markdown="span">P2: Oct. 5</td>
+<td markdown="span">[P2](pages/project-2-bottle.html): Oct. 5</td>
 </tr>
 
 <tr>
@@ -100,7 +100,7 @@ Office Hours: M & W 3:00PM-4:00PM
 <td markdown="span">Oct. 15</td>
 <td markdown="span">SolidWorks</td>
 <td markdown="span">Feature Operations, Sketching, Drafting and Practice for Project 3</td>
-<td markdown="span">P3: Oct. 19</td>
+<td markdown="span">[P3](pages/project-3.html): Oct. 19</td>
 </tr>
 
 <tr>
@@ -114,7 +114,7 @@ Office Hours: M & W 3:00PM-4:00PM
 <td markdown="span">Oct. 29</td>
 <td markdown="span">SolidWorks</td>
 <td markdown="span">Freeform Modeling and Practice for Project 4</td>
-<td markdown="span">P4: Nov. 2</td>
+<td markdown="span">[P4](pages/project-4.html): Nov. 2</td>
 </tr>
 
 <tr>
