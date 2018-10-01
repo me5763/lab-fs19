@@ -79,7 +79,7 @@ Office Hours: M & W 3:00PM-4:00PM
 <td markdown="span">Sep. 24</td>
 <td markdown="span">NX: Surface Modeling [[Slides]](https://docs.google.com/presentation/d/1f7K0fsQqebuXRI0zJUaQ8ZKPuUahLUMiYlW2P3GmPmA/edit?usp=sharing)</td>
 <td markdown="span">Practice for Project 2</td>
-<td markdown="span">FINAL PROJ. PROPOSAL: tbd</td>
+<td markdown="span"></td>
 </tr>
 
 <tr>
@@ -93,7 +93,7 @@ Office Hours: M & W 3:00PM-4:00PM
 <td markdown="span">Oct. 8</td>
 <td markdown="span">NX: Finite Element Analysis</td>
 <td markdown="span">Mesh Generation and Analysis for Structural Applications</td>
-<td markdown="span"> </td>
+<td markdown="span">FINAL PROJ. PROPOSAL: Oct. 12 </td>
 </tr>
 
 <tr>
@@ -149,7 +149,7 @@ Office Hours: M & W 3:00PM-4:00PM
 
 - [Project 1 Task 1](pages/project-1.html#task-1) --------------------------- **Due: Sep. 14**
 - [Project 1 Task 2](pages/project-1.html#task-2) --------------------------- **Due: Sep. 21**
-- [Final Project Proposal](#) ------------------ **Due: tbd**
+- [Final Project Proposal](#) ------------------ **Due: Oct. 12**
 - [Project 2](pages/project-2-bottle.html) ------------------------------------ **Due: Oct. 5**
 - [Project 3](pages/project-3.html) ------------------------------------ **Due: Oct. 19**
 - [Project 4](pages/project-4.html) ------------------------------------ **Due: Nov. 2**
