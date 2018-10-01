@@ -84,7 +84,7 @@ Office Hours: M & W 3:00PM-4:00PM
 
 <tr>
 <td markdown="span">Oct. 1</td>
-<td markdown="span">NX: Motion Simulation</td>
+<td markdown="span">NX: Motion Simulation [[Slides]](https://docs.google.com/presentation/d/1Oyh59mM9PEKepCoEHBgPrRdHGKUHVhp44xZuY7_urHQ/edit?usp=sharing)</td>
 <td markdown="span">Motion Simulation and Practice for Project 2</td>
 <td markdown="span">[P2](pages/project-2-bottle.html): Oct. 5</td>
 </tr>
