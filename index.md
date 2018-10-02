@@ -188,11 +188,15 @@ tba
 
 
 ### Books
-#### > NX 10
-[NX 10 for Engineering Design](https://web.mst.edu/~mleu/nx_manuals/nx10.pdf)
+#### NX 12 for Engineering Design
+This self-guided tutorial provides a step-by-step approach for users to learn NX 12. It is intended for those with no previous experience with NX. However, users of previous versions of NX may also find this tutorial useful for them to learn the new user interfaces and functions. The user will be guided from starting an NX 12 session to creating models and designs that have various applications. Each chapter has components explained with the help of various dialog boxes and screenshots. These components are later used in the assembly modeling, machining and finite element analysis. The files of components are also available online to download and use.
 
-#### > NX 12
-[NX 12 for Engineering Design](assets/books/NX-12-for-Engineering-Design.pdf)
 <br>
-<img src='assets/images/NX12_for_engineering_design.png' width='300'>
+<img src='assets/images/NX12_for_engineering_design.png' width='500'>
+
+[[Download] NX 12 for Engineering Design](assets/books/NX-12-for-Engineering-Design.pdf)
+
+#### Old Version: NX 10  for Engineering Design
+
+[[Download] NX 10 for Engineering Design](https://web.mst.edu/~mleu/nx_manuals/nx10.pdf)
 
