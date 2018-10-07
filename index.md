@@ -91,7 +91,7 @@ Office Hours: M & W 3:00PM-4:00PM
 
 <tr>
 <td markdown="span">Oct. 8</td>
-<td markdown="span">NX: Finite Element Analysis [[Tutorial]](assets/books/NX12_Tutorial_CH8.pdf) [[impeller.prt]](assets/models/files_ch8/Impeller_impeller.prt)</td>
+<td markdown="span">NX: Finite Element Analysis [[Tutorial (pdf)]](assets/books/NX12_Tutorial_CH8.pdf) [[Video]](https://vimeo.com/293644844) [[impeller.prt]](assets/models/files_ch8/Impeller_impeller.prt)</td>
 <td markdown="span">Mesh Generation and Analysis for Structural Applications</td>
 <td markdown="span">FINAL PROJ. PROPOSAL: Oct. 12 </td>
 </tr>
