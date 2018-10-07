@@ -11,7 +11,7 @@ Structural analysis of a rocker arm.
 
 ## Modeling
 
-Model the following part using NX
+Model the following part using NX (Unit: ***Inch***)
 
 <img src="../assets/images/project-3/draft.png" width="700">
 
