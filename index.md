@@ -93,7 +93,7 @@ Office Hours: M & W 3:00PM-4:00PM
 <td markdown="span">Oct. 8</td>
 <td markdown="span">NX: Finite Element Analysis [[Tutorial (pdf)]](assets/books/NX12_Tutorial_CH8.pdf) [[Video]](https://vimeo.com/293644844) [[impeller.prt]](assets/models/files_ch8/Impeller_impeller.prt)</td>
 <td markdown="span">Mesh Generation and Analysis for Structural Applications</td>
-<td markdown="span">FINAL PROJ. PROPOSAL: Oct. 12 </td>
+<td markdown="span">[FINAL PROJ. PROPOSAL](https://mst.instructure.com/courses/32546/assignments/110059?module_item_id=149519): Oct. 12 </td>
 </tr>
 
 <tr>
@@ -135,7 +135,7 @@ Office Hours: M & W 3:00PM-4:00PM
 <td markdown="span">Nov. 26</td>
 <td markdown="span">IAM Lab Tour & Demos</td>
 <td markdown="span">Completion of Final Project</td>
-<td markdown="span">FINAL PROJ. REPORT: Nov. 30</td>
+<td markdown="span">[FINAL PROJ. REPORT](https://mst.instructure.com/courses/32546/assignments/110060): Nov. 30</td>
 </tr>
 
 </tbody>
@@ -149,11 +149,11 @@ Office Hours: M & W 3:00PM-4:00PM
 
 - [Project 1 Task 1](pages/project-1.html#task-1) --------------------------- **Due: Sep. 14**
 - [Project 1 Task 2](pages/project-1.html#task-2) --------------------------- **Due: Sep. 21**
-- [Final Project Proposal](#) ------------------ **Due: Oct. 12**
+- [Final Project Proposal](https://mst.instructure.com/courses/32546/assignments/110059?module_item_id=149519) ------------------ **Due: Oct. 12**
 - [Project 2](pages/project-2-bottle.html) ------------------------------------ **Due: Oct. 5**
 - [Project 3](pages/project-3.html) ------------------------------------ **Due: Oct. 19**
 - [Project 4](pages/project-4.html) ------------------------------------ **Due: Nov. 2**
-- [Final Project Report](#) --------------------- **Due: Nov. 30**
+- [Final Project Report](https://mst.instructure.com/courses/32546/assignments/110060) --------------------- **Due: Nov. 30**
 
 ***Note: Please submit your projects via [Canvas](https://mst.instructure.com/courses/32546/assignments).***
 
