@@ -178,6 +178,8 @@ Final Exam 		25%
 - [NX Drafting](pages/nx-tutorial/nx-drafting.html)
 - [How to Speed up Your NX](pages/speed-up-nx.html)
 
+[New tutorial site](https://me5763.github.io/nx-tutorial)
+
 ---
 
 ### SOLIDWORKS
