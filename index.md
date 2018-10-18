@@ -178,13 +178,13 @@ Final Exam 		25%
 - [NX Drafting](pages/nx-tutorial/nx-drafting.html)
 - [How to Speed up Your NX](pages/speed-up-nx.html)
 
-[New tutorial site<sup style="color:red">(new)<sup>](https://me5763.github.io/nx-tutorial)
+[New tutorial site](https://me5763.github.io/nx-tutorial)<sup style="color:red">(new)<sup>
 
 ---
 
 ### SOLIDWORKS 2018
 
-[[Practice Schedule]](https://docs.google.com/presentation/d/1NXcEG9EvsykpvgDVXDwlqOo5fVHNwsfI4eILeco2Esg/edit?usp=sharing)
+- [Practice Schedule](https://docs.google.com/presentation/d/1NXcEG9EvsykpvgDVXDwlqOo5fVHNwsfI4eILeco2Esg/edit?usp=sharing)
 
 ---
 
