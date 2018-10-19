@@ -21,9 +21,9 @@ Model the following part using NX (Unit: ***Inch***)
 
 #### Material properties: 
 
-- Young’s modulus: 3.0 × 107 psi
+- Young’s modulus: 3.0 × 10<sup style="color:">7</sup> psi
 - Poisson’s ratio: 0.29
-- Mass density: 7.35 × 10-4 slug/in3 (*unit conversion may be needed*)
+- Mass density: 7.35 × 10<sup style="color:">-4</sup> slug/in3 (*unit conversion may be needed*)
 
 #### Mesh the rocker arm using the following attributes as four different cases:
 
