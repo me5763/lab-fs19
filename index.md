@@ -176,6 +176,7 @@ Final Exam 		25%
 
 - [NX Modeling](pages/nx-tutorial/nx-modeling.html)
 - [NX Drafting](pages/nx-tutorial/nx-drafting.html)
+- [How to Access the MST Virtual Machine](pages/access-mst-virtual-machine.html)
 - [How to Speed up Your NX](pages/speed-up-nx.html)
 
 [New tutorial site](https://me5763.github.io/nx-tutorial)<sup style="color:red">(new)<sup>
