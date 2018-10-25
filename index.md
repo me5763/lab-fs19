@@ -147,7 +147,7 @@ Office Hours: M & W 3:00PM-4:00PM
 
 ### <a class="anchor" id="projects">Project Assignments</a>
 
-- [Project 1 Task 1](pages/project-1.html#task-1) --------------------------- **Due: Sep. 14**
+- [Project 1 Task 1](pages/project-1.html) --------------------------- **Due: Sep. 14**
 - [Project 1 Task 2](pages/project-1.html#task-2) --------------------------- **Due: Sep. 21**
 - [Final Project Proposal](https://mst.instructure.com/courses/32546/assignments/110059?module_item_id=149519) ------------------ **Due: Oct. 12**
 - [Project 2](pages/project-2-bottle.html) ------------------------------------ **Due: Oct. 5**
