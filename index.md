@@ -16,7 +16,7 @@ This course (**ME 5763: Computer Aided Design Theory and Practice**) covers the 
 
 **Lab Instructor**
 
-Wenjin Tao
+A
 
 w.tao@mst.edu
 
