@@ -16,11 +16,11 @@ This course (**ME 5763: Computer Aided Design Theory and Practice**) covers the 
 
 **Lab Instructor**
 
-A
+Austin Sutton
 
-w.tao@mst.edu
+atsfk6@umsystem.edu
 
-311 [Engineering Research Lab](https://goo.gl/maps/4ASLFqY3Zx62), Missouri University of S&T
+342 [Toomey Hall](https://goo.gl/maps/vdE72S23e47vcJKT6), Missouri University of S&T
 
 Office Hours: M & W 3:00PM-4:00PM
 
