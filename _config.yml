@@ -17,7 +17,7 @@ author :
   feedburner : tba
 
 # NOTE: Replacing this next line with your own URL
-production_url : https://me5763.github.io/lab
+production_url : https://me5763.github.io/lab-fs19
 
 # Tell Github to use the kramdown markdown interpreter
 # (see https://help.github.com/articles/migrating-your-pages-site-from-maruku)
