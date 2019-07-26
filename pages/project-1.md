@@ -59,13 +59,13 @@ This project consists of two tasks:
 
 ### <a class="anchor" id="task-1">Task 1</a>:  
 
-- Choose any 2 out of the above 4 parts to model and submit the finished 2 part files (`.prt`) in a `.zip` file. **Due: Sep. 14**
+- Choose any 2 out of the above 4 parts to model and submit the finished 2 part files (`.prt`) in a `.zip` file. **Due: Sep. 13**
 
 
 
 ### <a class="anchor" id="task-2">Task 2</a>:  
 
-- Model the the other 2 parts and assemble the drone, then submit the whole 4 part files (`.prt`) and the assembly file (`.prt`) in a .zip file. **Due: Sep. 21**
+- Model the the other 2 parts and assemble the drone, then submit the whole 4 part files (`.prt`) and the assembly file (`.prt`) in a .zip file. **Due: Sep. 20**
 
 ## How to submit?
 - Submit your project to the corresponding module on Canvas (use your last name to name the file (e.g. Lastname_Project1_Part1). Do not use generic names like project1).
@@ -73,4 +73,4 @@ This project consists of two tasks:
 <br>
 
 
-### <span style="color: red">If you have any questions? Leave your doubts below <i class="fas fa-arrow-down"></i></span>
+### <span style="color: red">Questions or Comments? Leave them below <i class="fas fa-arrow-down"></i></span>
