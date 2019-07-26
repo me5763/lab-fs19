@@ -56,35 +56,35 @@ Office Hours: T & W 3:00PM-4:00PM
 
 <tr>
 <td markdown="span">Aug. 26</td>
-<td markdown="span">NX: Introduction, Form Features and Feature Operations [[Slides]](https://docs.google.com/presentation/d/1Ya8U0g19r6-7dl2QaT3uHIVS0NovuIQx58YO48vRgBo/edit#slide=id.p)</td>
+<td markdown="span">NX: Introduction, Form Features and Feature Operations [[Slides]](https://docs.google.com/presentation/d/1Ya8U0g19r6-7dl2QaT3uHIVS0NovuIQx58YO48vRgBo/edit?usp=sharing)</td>
 <td markdown="span">Extrude, Revolve, Sweep, Blend, Boolean Operations, etc.</td>
 <td markdown="span"> </td>
 </tr>
 
 <tr>
 <td markdown="span">Sep. 9</td>
-<td markdown="span">NX: Tips for Sketching and Modeling [[Slides]](https://docs.google.com/presentation/d/10Z4NiW1LA7B2b7xos6fdZAuiIAQcPCOns2jknvkuEcQ/edit?usp=sharing)</td>
+<td markdown="span">NX: Tips for Sketching and Modeling [[Slides]](https://docs.google.com/presentation/d/1YNr1DXKrkBsqzeoP3zpYZRX-GSNI-cugVzoYujL84-c/edit?usp=sharing)</td>
 <td markdown="span">Practice for Project 1 Task 1</td>
 <td markdown="span">[P1 Task1](pages/project-1.html): Sep. 13</td>
 </tr>
 
 <tr>
 <td markdown="span">Sep. 16</td>
-<td markdown="span">NX: Assembly Modeling [[Slides]](https://docs.google.com/presentation/d/1D38vFhTjQQEQnFj1nNiTOsTSmQKl_2VD8EfmPHjJ-HQ/edit?usp=sharing)</td>
+<td markdown="span">NX: Assembly Modeling [[Slides]](https://docs.google.com/presentation/d/1eHdWEKs0LD8nFg83BdWW72ISoPm1QweY1BiGrMUbNc8/edit?usp=sharing)</td>
 <td markdown="span">Practice for Project 1 Task 2</td>
 <td markdown="span">[P1 Task2](pages/project-1.html): Sep. 20</td>
 </tr>
 
 <tr>
 <td markdown="span">Sep. 23</td>
-<td markdown="span">NX: Surface Modeling [[Slides]](https://docs.google.com/presentation/d/1f7K0fsQqebuXRI0zJUaQ8ZKPuUahLUMiYlW2P3GmPmA/edit?usp=sharing)</td>
+<td markdown="span">NX: Surface Modeling [[Slides]](https://docs.google.com/presentation/d/1wtjtlaTCESdQxBXLxNAo8WOpEiuTKXagXeh9rG6HKqo/edit?usp=sharing)</td>
 <td markdown="span">Practice for Project 2</td>
 <td markdown="span"></td>
 </tr>
 
 <tr>
 <td markdown="span">Sep. 30</td>
-<td markdown="span">NX: Motion Simulation [[Slides]](https://docs.google.com/presentation/d/1Oyh59mM9PEKepCoEHBgPrRdHGKUHVhp44xZuY7_urHQ/edit?usp=sharing)</td>
+<td markdown="span">NX: Motion Simulation [[Slides]](https://docs.google.com/presentation/d/1jnYAGGdPHRG8PbbxU8Y8kuAYGshIFWM1bjJg0exScZ4/edit?usp=sharing)</td>
 <td markdown="span">Motion Simulation and Practice for Project 2</td>
 <td markdown="span">[P2](pages/project-2-bottle.html): Oct. 4</td>
 </tr>
@@ -105,14 +105,14 @@ Office Hours: T & W 3:00PM-4:00PM
 
 <tr>
 <td markdown="span">Oct. 21</td>
-<td markdown="span">SolidWorks [[Practice Schedule]](https://docs.google.com/presentation/d/1NXcEG9EvsykpvgDVXDwlqOo5fVHNwsfI4eILeco2Esg/edit?usp=sharing)</td>
+<td markdown="span">SolidWorks [[Practice Schedule]](https://docs.google.com/presentation/d/1CoVQaKPW_58WhHAuSU20Ut4mLIJ40mP6cBpVtnFyLeI/edit?usp=sharing)</td>
 <td markdown="span">Assembly Modeling and Drawing</td>
 <td markdown="span"> </td>
 </tr>
 
 <tr>
 <td markdown="span">Oct. 28</td>
-<td markdown="span">SolidWorks [[Practice Schedule]](https://docs.google.com/presentation/d/1NXcEG9EvsykpvgDVXDwlqOo5fVHNwsfI4eILeco2Esg/edit?usp=sharing)</td>
+<td markdown="span">SolidWorks [[Practice Schedule]](https://docs.google.com/presentation/d/1Ery3-pr3NW011iRSwB84dOrQ7heUracXph5xQF75GZU/edit?usp=sharing)</td>
 <td markdown="span">Surface Modeling, Rendering and Practice for Project 4</td>
 <td markdown="span">[P4](pages/project-4.html): Nov. 1</td>
 </tr>
