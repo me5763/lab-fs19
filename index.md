@@ -65,14 +65,14 @@ Office Hours: T & W 3:00PM-4:00PM
 <td markdown="span">Sep. 9</td>
 <td markdown="span">NX: Tips for Sketching and Modeling [[Slides]](https://docs.google.com/presentation/d/10Z4NiW1LA7B2b7xos6fdZAuiIAQcPCOns2jknvkuEcQ/edit?usp=sharing)</td>
 <td markdown="span">Practice for Project 1 Task 1</td>
-<td markdown="span">[P1 Task1](pages/project-1.html): Sep. 14</td>
+<td markdown="span">[P1 Task1](pages/project-1.html): Sep. 13</td>
 </tr>
 
 <tr>
 <td markdown="span">Sep. 16</td>
 <td markdown="span">NX: Assembly Modeling [[Slides]](https://docs.google.com/presentation/d/1D38vFhTjQQEQnFj1nNiTOsTSmQKl_2VD8EfmPHjJ-HQ/edit?usp=sharing)</td>
 <td markdown="span">Practice for Project 1 Task 2</td>
-<td markdown="span">[P1 Task2](pages/project-1.html): Sep. 21</td>
+<td markdown="span">[P1 Task2](pages/project-1.html): Sep. 20</td>
 </tr>
 
 <tr>
@@ -86,21 +86,21 @@ Office Hours: T & W 3:00PM-4:00PM
 <td markdown="span">Sep. 30</td>
 <td markdown="span">NX: Motion Simulation [[Slides]](https://docs.google.com/presentation/d/1Oyh59mM9PEKepCoEHBgPrRdHGKUHVhp44xZuY7_urHQ/edit?usp=sharing)</td>
 <td markdown="span">Motion Simulation and Practice for Project 2</td>
-<td markdown="span">[P2](pages/project-2-bottle.html): Oct. 5</td>
+<td markdown="span">[P2](pages/project-2-bottle.html): Oct. 4</td>
 </tr>
 
 <tr>
 <td markdown="span">Oct. 7</td>
 <td markdown="span">NX: Finite Element Analysis [[Tutorial (pdf)]](assets/books/NX12_Tutorial_CH8.pdf) [[Video]](https://vimeo.com/293644844) [[impeller.prt]](assets/models/files_ch8/Impeller_impeller.prt)</td>
 <td markdown="span">Mesh Generation and Analysis for Structural Applications</td>
-<td markdown="span">[FINAL PROJ. PROPOSAL](https://mst.instructure.com/courses/32546/assignments/110059?module_item_id=149519): Oct. 12 </td>
+<td markdown="span">[FINAL PROJ. PROPOSAL](https://mst.instructure.com/courses/32546/assignments/110059?module_item_id=149519): Oct. 11 </td>
 </tr>
 
 <tr>
 <td markdown="span">Oct. 14</td>
 <td markdown="span">SolidWorks [[Practice Schedule]](https://docs.google.com/presentation/d/1NXcEG9EvsykpvgDVXDwlqOo5fVHNwsfI4eILeco2Esg/edit?usp=sharing)</td>
 <td markdown="span">Parts Modeling and Practice for Project 3</td>
-<td markdown="span">[P3](pages/project-3.html): Oct. 19</td>
+<td markdown="span">[P3](pages/project-3.html): Oct. 18</td>
 </tr>
 
 <tr>
@@ -114,7 +114,7 @@ Office Hours: T & W 3:00PM-4:00PM
 <td markdown="span">Oct. 28</td>
 <td markdown="span">SolidWorks [[Practice Schedule]](https://docs.google.com/presentation/d/1NXcEG9EvsykpvgDVXDwlqOo5fVHNwsfI4eILeco2Esg/edit?usp=sharing)</td>
 <td markdown="span">Surface Modeling, Rendering and Practice for Project 4</td>
-<td markdown="span">[P4](pages/project-4.html): Nov. 2</td>
+<td markdown="span">[P4](pages/project-4.html): Nov. 1</td>
 </tr>
 
 <tr>
