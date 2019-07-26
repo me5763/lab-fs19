@@ -147,13 +147,13 @@ Office Hours: M & W 3:00PM-4:00PM
 
 ### <a class="anchor" id="projects">Project Assignments</a>
 
-- [Project 1 Task 1](pages/project-1.html) --------------------------- **Due: Sep. 14**
-- [Project 1 Task 2](pages/project-1.html#task-2) --------------------------- **Due: Sep. 21**
+- [Project 1 Task 1](pages/project-1.html) --------------------------- **Due: Sep. 13**
+- [Project 1 Task 2](pages/project-1.html#task-2) --------------------------- **Due: Sep. 20**
 - [Final Project Proposal](https://mst.instructure.com/courses/32546/assignments/110059?module_item_id=149519) ------------------ **Due: Oct. 12**
-- [Project 2](pages/project-2-bottle.html) ------------------------------------ **Due: Oct. 5**
-- [Project 3](pages/project-3.html) ------------------------------------ **Due: Oct. 19**
-- [Project 4](pages/project-4.html) ------------------------------------ **Due: Nov. 2**
-- [Final Project Report](https://mst.instructure.com/courses/32546/assignments/110060) --------------------- **Due: Nov. 30**
+- [Project 2](pages/project-2-bottle.html) ------------------------------------ **Due: Oct. 4**
+- [Project 3](pages/project-3.html) ------------------------------------ **Due: Oct. 18**
+- [Project 4](pages/project-4.html) ------------------------------------ **Due: Nov. 1**
+- [Final Project Report](https://mst.instructure.com/courses/32546/assignments/110060) --------------------- **Due: Dec. 2**
 
 ***Note: Please submit your projects via [Canvas](https://mst.instructure.com/courses/32546/assignments).***
 
