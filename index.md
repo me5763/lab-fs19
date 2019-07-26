@@ -22,7 +22,7 @@ atsfk6@umsystem.edu
 
 342 [Toomey Hall](https://goo.gl/maps/vdE72S23e47vcJKT6), Missouri University of S&T
 
-Office Hours: M & W 3:00PM-4:00PM
+Office Hours: T & W 3:00PM-4:00PM
 
 ---
 
