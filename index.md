@@ -48,94 +48,94 @@ Office Hours: M & W 3:00PM-4:00PM
 </thead>
 <tbody>
 <tr>
-<td markdown="span">Aug. 20</td>
+<td markdown="span">Aug. 19</td>
 <td markdown="span">Step into Computer Aided Design</td>
 <td markdown="span">Design considerations; Deconstruction of complicated design</td>
 <td markdown="span"> </td>
 </tr>
 
 <tr>
-<td markdown="span">Aug. 27</td>
+<td markdown="span">Aug. 26</td>
 <td markdown="span">NX: Introduction, Form Features and Feature Operations [[Slides]](https://docs.google.com/presentation/d/17NCyl8fK71Y52TaUrHyMorTYWVzYbqFQnhF36DhpPvE/edit?usp=sharing)</td>
 <td markdown="span">Extrude, Revolve, Sweep, Blend, Boolean Operations, etc.</td>
 <td markdown="span"> </td>
 </tr>
 
 <tr>
-<td markdown="span">Sep. 10</td>
+<td markdown="span">Sep. 9</td>
 <td markdown="span">NX: Tips for Sketching and Modeling [[Slides]](https://docs.google.com/presentation/d/10Z4NiW1LA7B2b7xos6fdZAuiIAQcPCOns2jknvkuEcQ/edit?usp=sharing)</td>
 <td markdown="span">Practice for Project 1 Task 1</td>
 <td markdown="span">[P1 Task1](pages/project-1.html): Sep. 14</td>
 </tr>
 
 <tr>
-<td markdown="span">Sep. 17</td>
+<td markdown="span">Sep. 16</td>
 <td markdown="span">NX: Assembly Modeling [[Slides]](https://docs.google.com/presentation/d/1D38vFhTjQQEQnFj1nNiTOsTSmQKl_2VD8EfmPHjJ-HQ/edit?usp=sharing)</td>
 <td markdown="span">Practice for Project 1 Task 2</td>
 <td markdown="span">[P1 Task2](pages/project-1.html): Sep. 21</td>
 </tr>
 
 <tr>
-<td markdown="span">Sep. 24</td>
+<td markdown="span">Sep. 23</td>
 <td markdown="span">NX: Surface Modeling [[Slides]](https://docs.google.com/presentation/d/1f7K0fsQqebuXRI0zJUaQ8ZKPuUahLUMiYlW2P3GmPmA/edit?usp=sharing)</td>
 <td markdown="span">Practice for Project 2</td>
 <td markdown="span"></td>
 </tr>
 
 <tr>
-<td markdown="span">Oct. 1</td>
+<td markdown="span">Sep. 30</td>
 <td markdown="span">NX: Motion Simulation [[Slides]](https://docs.google.com/presentation/d/1Oyh59mM9PEKepCoEHBgPrRdHGKUHVhp44xZuY7_urHQ/edit?usp=sharing)</td>
 <td markdown="span">Motion Simulation and Practice for Project 2</td>
 <td markdown="span">[P2](pages/project-2-bottle.html): Oct. 5</td>
 </tr>
 
 <tr>
-<td markdown="span">Oct. 8</td>
+<td markdown="span">Oct. 7</td>
 <td markdown="span">NX: Finite Element Analysis [[Tutorial (pdf)]](assets/books/NX12_Tutorial_CH8.pdf) [[Video]](https://vimeo.com/293644844) [[impeller.prt]](assets/models/files_ch8/Impeller_impeller.prt)</td>
 <td markdown="span">Mesh Generation and Analysis for Structural Applications</td>
 <td markdown="span">[FINAL PROJ. PROPOSAL](https://mst.instructure.com/courses/32546/assignments/110059?module_item_id=149519): Oct. 12 </td>
 </tr>
 
 <tr>
-<td markdown="span">Oct. 15</td>
+<td markdown="span">Oct. 14</td>
 <td markdown="span">SolidWorks [[Practice Schedule]](https://docs.google.com/presentation/d/1NXcEG9EvsykpvgDVXDwlqOo5fVHNwsfI4eILeco2Esg/edit?usp=sharing)</td>
 <td markdown="span">Parts Modeling and Practice for Project 3</td>
 <td markdown="span">[P3](pages/project-3.html): Oct. 19</td>
 </tr>
 
 <tr>
-<td markdown="span">Oct. 22</td>
+<td markdown="span">Oct. 21</td>
 <td markdown="span">SolidWorks [[Practice Schedule]](https://docs.google.com/presentation/d/1NXcEG9EvsykpvgDVXDwlqOo5fVHNwsfI4eILeco2Esg/edit?usp=sharing)</td>
 <td markdown="span">Assembly Modeling and Drawing</td>
 <td markdown="span"> </td>
 </tr>
 
 <tr>
-<td markdown="span">Oct. 29</td>
+<td markdown="span">Oct. 28</td>
 <td markdown="span">SolidWorks [[Practice Schedule]](https://docs.google.com/presentation/d/1NXcEG9EvsykpvgDVXDwlqOo5fVHNwsfI4eILeco2Esg/edit?usp=sharing)</td>
 <td markdown="span">Surface Modeling, Rendering and Practice for Project 4</td>
 <td markdown="span">[P4](pages/project-4.html): Nov. 2</td>
 </tr>
 
 <tr>
-<td markdown="span">Nov. 5</td>
+<td markdown="span">Nov. 4</td>
 <td markdown="span">NX: CAM [[Tutorial (pdf)]](assets/books/NX12_Tutorial_CH9.pdf) [[Die_cavity.prt]](assets/models/files_ch9/Die_cavity.prt) [[Die_cavity_with_program.prt]](assets/models/files_ch9/Die_cavity_with_program.prt)</td>
 <td markdown="span">CAM Practice and Working on Final Project</td>
 <td markdown="span"> </td>
 </tr>
 
 <tr>
-<td markdown="span">Nov. 12</td>
+<td markdown="span">Nov. 11</td>
 <td markdown="span">Q&A for final project</td>
 <td markdown="span">Working on Final Project</td>
 <td markdown="span"> </td>
 </tr>
 
 <tr>
-<td markdown="span">Nov. 26</td>
+<td markdown="span">Nov. 25</td>
 <td markdown="span">IAM Lab Tour & Demos</td>
 <td markdown="span">Completion of Final Project</td>
-<td markdown="span">[FINAL PROJ. REPORT](https://mst.instructure.com/courses/32546/assignments/110060): Nov. 30</td>
+<td markdown="span">[FINAL PROJ. REPORT](https://mst.instructure.com/courses/32546/assignments/110060): Dec. 2</td>
 </tr>
 
 </tbody>
