@@ -56,7 +56,7 @@ Office Hours: M & W 3:00PM-4:00PM
 
 <tr>
 <td markdown="span">Aug. 26</td>
-<td markdown="span">NX: Introduction, Form Features and Feature Operations [[Slides]](https://docs.google.com/presentation/d/17NCyl8fK71Y52TaUrHyMorTYWVzYbqFQnhF36DhpPvE/edit?usp=sharing)</td>
+<td markdown="span">NX: Introduction, Form Features and Feature Operations [[Slides]](https://docs.google.com/presentation/d/1Ya8U0g19r6-7dl2QaT3uHIVS0NovuIQx58YO48vRgBo/edit#slide=id.p)</td>
 <td markdown="span">Extrude, Revolve, Sweep, Blend, Boolean Operations, etc.</td>
 <td markdown="span"> </td>
 </tr>
@@ -149,7 +149,7 @@ Office Hours: M & W 3:00PM-4:00PM
 
 - [Project 1 Task 1](pages/project-1.html) --------------------------- **Due: Sep. 13**
 - [Project 1 Task 2](pages/project-1.html#task-2) --------------------------- **Due: Sep. 20**
-- [Final Project Proposal](https://mst.instructure.com/courses/32546/assignments/110059?module_item_id=149519) ------------------ **Due: Oct. 12**
+- [Final Project Proposal](https://mst.instructure.com/courses/32546/assignments/110059?module_item_id=149519) ------------------ **Due: Oct. 11**
 - [Project 2](pages/project-2-bottle.html) ------------------------------------ **Due: Oct. 4**
 - [Project 3](pages/project-3.html) ------------------------------------ **Due: Oct. 18**
 - [Project 4](pages/project-4.html) ------------------------------------ **Due: Nov. 1**
