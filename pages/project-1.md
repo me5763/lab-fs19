@@ -51,8 +51,8 @@ The motor and propeller models (NX 12 `.prt` files) are provided which you can u
 ## Notes
 - This is an ***NX*** project, so model the parts in ***NX***.
 - The unit of the provided model is ***mm***.
-- It is not required to have exactly the same dimensions with the provided models. But make sure that your model have the similar features.
-- There're some crucial dimensions related to **mate** which you need to keep them consistent for different parts. Make sure that the four parts can be assembled as shown above without interference.
+- It is not required to have exactly the same dimensions with the provided models. But make sure that your model has all features.
+- There are some crucial dimensions related to **mate** which you need to keep consistent for different parts. Make sure that the four parts can be assembled as shown above without interference.
 
 ## What to submit?
 This project consists of two tasks:
