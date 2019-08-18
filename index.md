@@ -50,7 +50,7 @@ Office Hours: T & W 3:00PM-4:00PM
 <tr>
 <td markdown="span">Aug. 19</td>
 <td markdown="span">Step into Computer Aided Design</td>
-<td markdown="span">Design considerations; Deconstruction of complicated design</td>
+<td markdown="span">Familiarization with Course Website and Accessing CAD Software</td>
 <td markdown="span"> </td>
 </tr>
 
