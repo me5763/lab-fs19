@@ -155,7 +155,7 @@ Office Hours: T & W 3:00PM-4:00PM
 - [Project 4](pages/project-4.html) ------------------------------------ **Due: Nov. 1**
 - [Final Project Report](https://mst.instructure.com/courses/32546/assignments/110060) --------------------- **Due: Dec. 2**
 
-***Note: Please submit your projects via [Canvas](https://mst.instructure.com/courses/32546/assignments).***
+***Note: Please submit your projects via [Canvas](https://mst.instructure.com/courses/41095/assignments).***
 
 ---
 ### Grading
