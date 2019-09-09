@@ -59,7 +59,7 @@ This project consists of two tasks:
 
 ### <a class="anchor" id="task-1">Task 1</a>:  
 
-- Choose any 2 out of the above 4 parts to model and submit the finished 2 part files (`.prt`) in a `.zip` file. **Due: Sep. 13**
+- Choose any 2 out of the above 4 parts to model and submit the finished 2 part files (`.prt`) in a `.zip` file. **Due: Sep. 15**
 
 
 
