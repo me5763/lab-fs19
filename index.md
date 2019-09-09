@@ -65,7 +65,7 @@ Office Hours: T & W 3:00PM-4:00PM
 <td markdown="span">Sep. 9</td>
 <td markdown="span">NX: Tips for Sketching and Modeling [[Slides]](https://docs.google.com/presentation/d/1YNr1DXKrkBsqzeoP3zpYZRX-GSNI-cugVzoYujL84-c/edit?usp=sharing)</td>
 <td markdown="span">Practice for Project 1 Task 1</td>
-<td markdown="span">[P1 Task1](pages/project-1.html): Sep. 13</td>
+<td markdown="span">[P1 Task1](pages/project-1.html): Sep. 15</td>
 </tr>
 
 <tr>
