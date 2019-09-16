@@ -72,7 +72,7 @@ Office Hours: T & W 3:00PM-4:00PM
 <td markdown="span">Sep. 16</td>
 <td markdown="span">NX: Assembly Modeling [[Slides]](https://docs.google.com/presentation/d/1eHdWEKs0LD8nFg83BdWW72ISoPm1QweY1BiGrMUbNc8/edit?usp=sharing)</td>
 <td markdown="span">Practice for Project 1 Task 2</td>
-<td markdown="span">[P1 Task2](pages/project-1.html): Sep. 20</td>
+<td markdown="span">[P1 Task2](pages/project-1.html): Sep. 23</td>
 </tr>
 
 <tr>
@@ -147,8 +147,8 @@ Office Hours: T & W 3:00PM-4:00PM
 
 ### <a class="anchor" id="projects">Project Assignments</a>
 
-- [Project 1 Task 1](pages/project-1.html) --------------------------- **Due: Sep. 13**
-- [Project 1 Task 2](pages/project-1.html#task-2) --------------------------- **Due: Sep. 20**
+- [Project 1 Task 1](pages/project-1.html) --------------------------- **Due: Sep. 15**
+- [Project 1 Task 2](pages/project-1.html#task-2) --------------------------- **Due: Sep. 23**
 - [Final Project Proposal](https://mst.instructure.com/courses/32546/assignments/110059?module_item_id=149519) ------------------ **Due: Oct. 11**
 - [Project 2](pages/project-2-bottle.html) ------------------------------------ **Due: Oct. 4**
 - [Project 3](pages/project-3.html) ------------------------------------ **Due: Oct. 18**
