@@ -22,7 +22,7 @@ Designing and modeling of a sport water bottle.
 
 ## What to submit?
 
-Model the bottle, then submit the part file (`.prt`) in a .zip file. **Due: Oct. 5**
+Model the bottle, then submit the part file (`.prt`) in a .zip file. **Due: Oct. 4**
 
 ## How to submit?
 
