@@ -84,7 +84,7 @@ Office Hours: T & W 3:00PM-4:00PM
 
 <tr>
 <td markdown="span">Sep. 30</td>
-<td markdown="span">NX: Drafting and Motion Simulation [[Slides]](https://docs.google.com/presentation/d/1jnYAGGdPHRG8PbbxU8Y8kuAYGshIFWM1bjJg0exScZ4/edit?usp=sharing)</td>
+<td markdown="span">NX: Drafting in NX [[Slides]](https://docs.google.com/presentation/d/1jnYAGGdPHRG8PbbxU8Y8kuAYGshIFWM1bjJg0exScZ4/edit?usp=sharing)</td>
 <td markdown="span">Motion Simulation and Practice for Project 2</td>
 <td markdown="span">[P2](pages/project-2-bottle.html): Oct. 4</td>
 </tr>
@@ -98,7 +98,7 @@ Office Hours: T & W 3:00PM-4:00PM
 
 <tr>
 <td markdown="span">Oct. 14</td>
-<td markdown="span">SolidWorks [[Practice Schedule]](https://docs.google.com/presentation/d/1CoVQaKPW_58WhHAuSU20Ut4mLIJ40mP6cBpVtnFyLeI/edit?usp=sharing)</td>
+<td markdown="span">Motion Simulation and Introduction to SolidWorks [[Practice Schedule]](https://docs.google.com/presentation/d/1CoVQaKPW_58WhHAuSU20Ut4mLIJ40mP6cBpVtnFyLeI/edit?usp=sharing)</td>
 <td markdown="span">Parts Modeling and Practice for Project 3</td>
 <td markdown="span">[P3](pages/project-3.html): Oct. 18</td>
 </tr>
