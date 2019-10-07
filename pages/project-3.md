@@ -48,7 +48,7 @@ Recreate the drawing above through the drafting application in NX.
 
 ## What to submit?
 
-Part file, drawing of the part similar to the one shown above, and a written report containing the four cases below. The reports do not need to be formal and should be as concise as possible. At the beginning of your document, please tabulate the results of the four cases including the maximum deflections and Von-Mises stresses.
+Part file, drawing of the part similar to the one shown above, simulation files, and a written report containing the four cases below. The reports do not need to be formal and should be as concise as possible. At the beginning of your document, please tabulate the results of the four cases including the maximum deflections and Von-Mises stresses.
 
 - Meshed solid
 - Magnitude of deflection contour
