@@ -40,13 +40,15 @@ Fix both the counter bore hole and the counter sunk hole (i.e. fix the cylindric
 
 #### Apply a pressure load of magnitude 600 psi normal to the face shown
 
-#### For each of the four cases, obtain the deflection and Von-Mises stress
+#### For each of the four cases, obtain the (nodal) deflection and (elemental) Von-Mises stress
 
+## Drafting
 
+Recreate the drawing above through the drafting application in NX.
 
 ## What to submit?
 
-A written report containing the following for the four cases.
+Part file, drawing of the part similar to the one shown above, and a written report containing the four cases below. The reports do not need to be formal and should be as concise as possible. At the beginning of your document, please tabulate the results of the four cases including the maximum deflections and Von-Mises stresses.
 
 - Meshed solid
 - Magnitude of deflection contour
