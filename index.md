@@ -98,21 +98,21 @@ Office Hours: T & W 3:00PM-4:00PM
 
 <tr>
 <td markdown="span">Oct. 14</td>
-<td markdown="span">Motion Simulation and Introduction to SolidWorks [[Practice Schedule]](https://docs.google.com/presentation/d/1CoVQaKPW_58WhHAuSU20Ut4mLIJ40mP6cBpVtnFyLeI/edit?usp=sharing)</td>
+<td markdown="span">Motion Simulation and Introduction to SolidWorks [[Slides]](https://docs.google.com/presentation/d/1CoVQaKPW_58WhHAuSU20Ut4mLIJ40mP6cBpVtnFyLeI/edit?usp=sharing)</td>
 <td markdown="span">Parts Modeling and Practice for Project 3</td>
 <td markdown="span">[P3](pages/project-3.html): Oct. 18</td>
 </tr>
 
 <tr>
 <td markdown="span">Oct. 21</td>
-<td markdown="span">SolidWorks [[Practice Schedule]](https://docs.google.com/presentation/d/1CoVQaKPW_58WhHAuSU20Ut4mLIJ40mP6cBpVtnFyLeI/edit?usp=sharing)</td>
+<td markdown="span">SolidWorks [[Slides]](https://docs.google.com/presentation/d/1CoVQaKPW_58WhHAuSU20Ut4mLIJ40mP6cBpVtnFyLeI/edit?usp=sharing)</td>
 <td markdown="span">Assembly Modeling and Drawing</td>
 <td markdown="span"> </td>
 </tr>
 
 <tr>
 <td markdown="span">Oct. 28</td>
-<td markdown="span">SolidWorks [[Practice Schedule]](https://docs.google.com/presentation/d/1Ery3-pr3NW011iRSwB84dOrQ7heUracXph5xQF75GZU/edit?usp=sharing)</td>
+<td markdown="span">SolidWorks [[Slides]](https://docs.google.com/presentation/d/1Ery3-pr3NW011iRSwB84dOrQ7heUracXph5xQF75GZU/edit?usp=sharing)</td>
 <td markdown="span">Surface Modeling, Rendering and Practice for Project 4</td>
 <td markdown="span">[P4](pages/project-4.html): Nov. 1</td>
 </tr>
