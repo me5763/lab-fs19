@@ -105,7 +105,7 @@ Office Hours: T & W 3:00PM-4:00PM
 
 <tr>
 <td markdown="span">Oct. 21</td>
-<td markdown="span">SolidWorks [[Slides]](https://docs.google.com/presentation/d/1CoVQaKPW_58WhHAuSU20Ut4mLIJ40mP6cBpVtnFyLeI/edit?usp=sharing)</td>
+<td markdown="span">SolidWorks [[Slides]](https://docs.google.com/presentation/d/1Ery3-pr3NW011iRSwB84dOrQ7heUracXph5xQF75GZU/edit?usp=sharing)</td>
 <td markdown="span">Assembly Modeling and Drawing</td>
 <td markdown="span"> </td>
 </tr>
