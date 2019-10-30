@@ -119,7 +119,7 @@ Office Hours: T & W 3:00PM-4:00PM
 
 <tr>
 <td markdown="span">Nov. 4</td>
-<td markdown="span">NX: CAM [[Tutorial (pdf)]](assets/books/NX12_Tutorial_CH9.pdf) [[Die_cavity.prt]](assets/models/files_ch9/Die_cavity.prt) [[Die_cavity_with_program.prt]](assets/models/files_ch9/Die_cavity_with_program.prt)</td>
+<td markdown="span">NO LECTURE - NX: CAM [[Tutorial (pdf)]](assets/books/NX12_Tutorial_CH9.pdf) [[Die_cavity.prt]](assets/models/files_ch9/Die_cavity.prt) [[Die_cavity_with_program.prt]](assets/models/files_ch9/Die_cavity_with_program.prt)</td>
 <td markdown="span">CAM Practice and Working on Final Project</td>
 <td markdown="span"> </td>
 </tr>
