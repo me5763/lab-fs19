@@ -135,7 +135,7 @@ Office Hours: T & W 3:00PM-4:00PM
 <td markdown="span">Nov. 25</td>
 <td markdown="span">IAM Lab Tour & Demos</td>
 <td markdown="span">Completion of Final Project</td>
-<td markdown="span">[FINAL PROJ. REPORT](https://mst.instructure.com/courses/32546/assignments/110060): Nov. 30</td>
+<td markdown="span">Final Project Report due Nov. 30</td>
 </tr>
 
 </tbody>
